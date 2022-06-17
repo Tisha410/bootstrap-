@@ -1,2 +1,2 @@
 # Euro-Travels
-A Free Responsive Agency Template 
+A Free Responsive Agency 
