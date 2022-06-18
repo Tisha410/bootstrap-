@@ -35,7 +35,7 @@
 }
 .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
 	padding: 14px 0;
-	font color:#002322;
+	font-color:#002322;
 }
 tbody tr{
 	border: 1px solid #ddd;
@@ -50,7 +50,6 @@ tbody tr td:nth-child(2){
 	width: 75%;
 }
 tbody tr td:nth-child(3){
-	fontcolor:black 
 	width: 10%;
 }
 tbody{
