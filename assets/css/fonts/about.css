@@ -49,6 +49,7 @@ tbody tr td:nth-child(2){
 	width: 75%;
 }
 tbody tr td:nth-child(3){
+	fontcolor:black 
 	width: 10%;
 }
 tbody{
